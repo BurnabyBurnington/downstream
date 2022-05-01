@@ -1,0 +1,7 @@
+downstream.module
+-----------------
+
+.. automodule:: downstream.module
+   :members:
+   :undoc-members:
+   :show-inheritance:

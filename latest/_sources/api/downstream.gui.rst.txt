@@ -1,0 +1,7 @@
+downstream.gui
+--------------
+
+.. automodule:: downstream.gui
+   :members:
+   :undoc-members:
+   :show-inheritance:

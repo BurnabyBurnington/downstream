@@ -1,0 +1,13 @@
+downstream
+==========
+
+.. toctree::
+   :maxdepth: 4
+
+   gui <downstream.gui>
+   module <downstream.module>
+
+.. automodule:: downstream
+   :members:
+   :undoc-members:
+   :show-inheritance:
